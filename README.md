@@ -74,10 +74,6 @@ Once the environment is set up and the dependencies are installed, you can run t
 python main.py
 ```
 
-Sure! Here is the improved version:
-
----
-
 ### Step 6: Configuration Before Running `main.py`:
 Before executing the `main.py` file, ensure that you set the following variables according to your case:
 
